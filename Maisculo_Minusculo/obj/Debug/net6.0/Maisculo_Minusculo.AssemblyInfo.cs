@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Maisculo_Minusculo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceb5b4ea3f4921068b83e5989c853cdc16e8cf91")]
 [assembly: System.Reflection.AssemblyProductAttribute("Maisculo_Minusculo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Maisculo_Minusculo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
